@@ -1,6 +1,6 @@
 *= $4000
 
-;Usar SID para geração de valores randomicos
+;Usar o SID para geração de valores randomicos
 ;Use SID for random number generation
 
 
