@@ -1,5 +1,5 @@
 The maze is generated randomly, using the SID Chip for generation of random numbers.
-Tested on VICE, but probably work on real hardware with no problems.
+Tested on VICE, but probably works on real hardware with no problems.
 
 Commands:
 <br />
